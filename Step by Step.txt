@@ -1,0 +1,7 @@
+Week 1
+
+1. Set up a Git repository on Cloud Source Repositories. (completed)
+2. Build a simple web app with Python (Flask) or Node.js.
+3. Set up Cloud Build to automatically build and deploy the app when changes are pushed.
+4. Deploy the app to App Engine.
+
